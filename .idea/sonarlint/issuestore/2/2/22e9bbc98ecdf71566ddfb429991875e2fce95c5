@@ -1,0 +1,5 @@
+
+ltypescript:S1128"$Remove this unused import of 'Link'.(âØ	8ŠÓ½ìò1J$ec0fc357-b5a2-4891-bb06-e52328b79f60
+stypescript:S6749",A fragment with only one child is redundant.(™åÑğüÿÿÿÿJ$a86556c9-daad-41e1-bad0-ba366dce9763
+typescript:S6851"ÅRedundant alt attribute. Screen-readers already announce `img` tags as an image. You don\u8217t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop.(Æœ¢Ã8Ó½ìò1J$d7dd9e03-ac99-446e-9497-44ccbeedd3f7
+ltypescript:S6479"Do not use Array index in keys(Ê¹¹óşÿÿÿÿ8Ó½ìò1J$9bb7df0d-7487-49e3-9522-f240fa2e6a10
